@@ -7,3 +7,5 @@ Notes for the [Python For Everybody](https://www.coursera.org/specializations/py
 
 File labelled 'Extras' has text files to practice handling files with python
 - Pictures added in notes are also included in 'Extras'
+
+Folder labelled 'TwitterOAuth' contains files used for authorisation to use the twitter API when learning 
