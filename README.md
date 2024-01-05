@@ -9,3 +9,4 @@ File labelled 'Extras' has text files to practice handling files with python
 - Pictures added in notes are also included in 'Extras'
 
 Folder labelled 'TwitterOAuth' contains files used when learning about Twitter's API 
+- Make sure files are in the same directory as the code run to use them
